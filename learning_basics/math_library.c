@@ -19,11 +19,9 @@ int main() {
 
     printf("Hello %s, welcome to calculator!", name);
     sleep(5);
-
-
+    
     printf("\n\nEnter first number: ");
     scanf("%d", &x);
-
     printf("Enter second number: ");
     scanf("%d", &y);
 
