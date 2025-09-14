@@ -3,29 +3,20 @@
 
 int main() {
 
-    char name[50] = "";
-    int age = 0;
+    char input[30] = "";
 
+    printf("Type Y: ");
+    fgets(input, sizeof(input), stdin);
+    input[strlen(input) - 1] = '\0';
 
-    printf("What is your name?: ");
-    fgets(name, sizeof(name), stdin);
-    name[strlen(name) - 1] = '\0';
-
-    printf("What is your age?: ");
-    scanf("%d", &age);
-
-
-    if(age >= 65) {
-        printf("%s is classified as a senior citizen!", name);
+    if (strcmp(input, "Y") == 0) {
+        printf("Hello!");
     }
-    else if(age >= 18) {
-        printf("%s is an Adult.", name);
-    }
-    else if (age == 0) {
-        printf("You are a newborn!");
+    else if (strcmp(input, "N") == 0) {
+        printf("Ok :(");
     }
     else {
-        printf("You are underage.");
+        printf("What?");
     }
 
     return 0;
