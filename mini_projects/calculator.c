@@ -18,30 +18,59 @@ int main() {
 
     if (strcmp(input, "1") == 0) {
 
-        printf("Please enter your first number: ");
+        printf("\nEnter your first number: ");
         scanf(" %f", &num1);
 
-        printf("Please enter your second number: ");
+        printf("Enter your second number: ");
         scanf(" %f", &num2);
 
         result = num1 + num2;
 
-        printf("The result of %.f and %.f is: %.2f", num1, num2, result);
+        printf("\nThe result of %.f and %.f is: %.2f", num1, num2, result);
     }
     else if (strcmp(input, "2") == 0){
         
-        printf("Enter first number: ");
+        printf("\nEnter first number: ");
         scanf(" %f", &num1);
 
         printf("Enter second number: ");
         scanf(" %f", &num2);
 
-        result = num1 + num2;
+        result = num1 - num2;
 
-        printf("The result of %.f and %.f is: %.2f", num1, num2, result);
+        printf("\nThe difference of %.f minus %.f is: %.2f", num1, num2, result);
+    }
+    else if (strcmp(input, "3") == 0) {
+        
+        printf("\nEnter first number: ");
+        scanf(" %f", &num1);
+
+        printf("Enter second number: ");
+        scanf(" %f", &num2);
+
+        result = num1 * num2;
+
+        printf("\nThe product of %.f times %.f is: %.2f", num1, num2, result);
+    }
+    else if (strcmp(input, "4") == 0) {
+        printf("\nEnter first number: ");
+        scanf(" %f", &num1);
+        
+
+        printf("Enter second number: ");
+        scanf(" %f", &num2);
+
+        result = num1 / num2;
+
+        printf("\nThe qoutient of %.f divided by %.f is: %.2f", num1, num2, result);
+    }
+    else if (strcmp(input, "5") == 0) {
+
+        printf("\nGoodbye! :(");
+        return 0;
     }
     else {
-        printf("Error: Please input valid number!");
+        printf("\nError: Please input valid number!");
     }
 
     return 0;
