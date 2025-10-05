@@ -16,7 +16,7 @@ Before we tackle the purpose of this repository, let’s first answer: **What is
 
 ## What is a Repository?
 
-Its explanation can be divided into two perspectives:
+Its explanation can be divided into two answers:
 
 #### 🔹 Technical Answer
 
@@ -35,7 +35,6 @@ There are two main types of repositories:
 * **Local Repository** → Lives on your computer.
 * **Remote Repository** → Hosted on a server (e.g., GitHub).
 
----
 
 #### 🔹 Short Answer
 
@@ -45,7 +44,7 @@ Simply put, a **repository** is like saving your files in the cloud. But unlike 
 
 ### 📌 How is GitHub Different from Regular Cloud Storage?
 
-Let’s look at some examples of public repositories:
+I'll put an example of some repositories here for referrence:
 
 #### Example No.1 – Learning by Projects
 
@@ -71,14 +70,14 @@ Let’s look at some examples of public repositories:
 
 ---
 
-### 💡 Key Takeaway
+###  Key Takeaway
 
 GitHub repositories are not just about *storing* files—they’re about **versioning, collaboration, and community-driven contribution**.
 While services like Google Drive, OneDrive, or Mega are great for personal storage, GitHub enables a **global ecosystem where projects grow through collective input**.
 
 ---
 
-## 🎯 Purpose of This Repository
+##  Purpose of This Repository
 
 As mentioned earlier, this repository is aimed at students in my department at **OLLC**. It was made to help them understand:
 
