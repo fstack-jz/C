@@ -75,7 +75,7 @@ The legendary [`EbookFoundation/free-programming-books`](https://github.com/Eboo
 GitHub repositories are not only about *storing* files, but about **versioning, collaboration, and open contribution**. Services like Google Drive, OneDrive, or Mega work great for personal file storage and sharing, but GitHub enables something fundamentally different: a **global ecosystem where projects evolve through collective input**.
 
 `Did you get it now?`
-
+---
 
 ## The purpose of this repository.
 
