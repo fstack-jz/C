@@ -77,8 +77,8 @@ GitHub repositories are not only about *storing* files, but about **versioning, 
 `Did you get it now?`
 ---
 
-## The purpose of this repository.
+## **The purpose of this repository.**
 
-Like what was stated earlier, this repository are aimed for the students in my department within my school (OLLC). And this was made to help them understand what is C, how it works, and how it was the foundation of some of the most famous languages like [`Python`](https://https://www.python.org/), [`C++`](https://en.wikipedia.org/wiki/C%2B%2B), [`Java`](https://www.java.com/en/), and many more.
+Like what was stated earlier, this repository are aimed for the students in my department within my school (OLLC). And this was made to help them understand what is C, how it works, and how it was the foundation of some of the most famous languages like [`Python`](https://www.python.org/), [`C++`](https://en.wikipedia.org/wiki/C%2B%2B), [`Java`](https://www.java.com/en/), and many more.
 
 By learning this, not only it will give you a good foundation on `how computers work`, it will also open alot of opportunities for learning many languages due to them using some of the `C's Syntax`.
