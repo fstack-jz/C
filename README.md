@@ -1,84 +1,91 @@
-# C-programming
+# C-programming (WIP)
 
-Greetings for anyone who is reading this `README` file, i would like to introduce myself as `Cassian`, who are currently studying in OLLC as a freshman.
-This was produce/made to help my fellow schoolmates & classmates to understand: 
+Greetings to anyone reading this `README` file. My name is **Cassian**, and I am currently studying at **OLLC** as a freshman.
 
-__What is C and how it works.__
+This repository was created to help my fellow schoolmates and classmates understand:
 
-## Whats the purpose for this repository?
-Before we tackle for the purpose of this repository. I'd like to explain for what is repository:
-
-## What is a repository?
-
-Its explanation will be explained in `2` types: 
-
-#### Technical Answer:
-A `Repository` or `repo` is a storage location for a project that is stored online and it was also made to have a version history (version control).
-In which, we can track and regress our projects depending on some cases.
-
-- In `Git`, a repository holds:
-    - The project’s complete history of changes `(commits)`.
-    - Snapshots of file contents `(called trees and blobs)`.
-    - References `(branches, tags, HEAD)`.
-    - Configuration files.
-
-There are also `2` kinds of repository
-- `Local Repository` -> This lives on your computer locally.
-- `Remote Repository` -> Usually in a online cloud server (Github).
-
-
-
-#### Short-Answer
-
-Basically, a `Repository` is a way of saving your files (yes, any files) in an online cloud. Although this was primarily used by developers/programmers/scripters to maintain and share their code online to others (Open Source).
+**What C is and how it works.**
 
 ---
 
-You may ask: `How is it any different from online cloud services like G-Drive, OneDrive, or even Mega.nz?`
+## What’s the Purpose of This Repository?
 
-To answer that, let’s have a look first at some examples.
+Before we tackle the purpose of this repository, let’s first answer: **What is a repository?**
 
 ---
+
+## What is a Repository?
+
+Its explanation can be divided into two perspectives:
+
+#### 🔹 Technical Answer
+
+A **repository** (or *repo*) is a storage location for a project, complete with its **version history** (version control).
+This allows us to track, revisit, and manage changes to our projects.
+
+* In **Git**, a repository holds:
+
+  * The project’s complete history of changes (*commits*).
+  * Snapshots of file contents (*trees* and *blobs*).
+  * References (*branches, tags, HEAD*).
+  * Configuration files.
+
+There are two main types of repositories:
+
+* **Local Repository** → Lives on your computer.
+* **Remote Repository** → Hosted on a server (e.g., GitHub).
+
+---
+
+#### 🔹 Short Answer
+
+Simply put, a **repository** is like saving your files in the cloud. But unlike Google Drive, OneDrive, or Mega, it was primarily designed for developers/programmers to **maintain and share their code online** (often as Open Source).
+
+---
+
+### 📌 How is GitHub Different from Regular Cloud Storage?
+
+Let’s look at some examples of public repositories:
 
 #### Example No.1 – Learning by Projects
 
-The [`codecrafters-io/build-your-own-x`](https://github.com/codecrafters-io/build-your-own-x) repository is a **public repo** made to guide learners in building their own versions of popular tools (like a Redis clone, a Docker clone, or even a Git clone).
+[`codecrafters-io/build-your-own-x`](https://github.com/codecrafters-io/build-your-own-x) helps learners build their own versions of popular tools (like Redis, Docker, or Git).
 
-* Unlike cloud storage, where files just “sit” there, this repo is **organized like a structured learning path**, with code samples, community contributions, and updates.
-* Developers can **fork** (copy) it, experiment with their own implementations, and share back improvements.
-* This shows how GitHub enables *collaborative education and growth*, not just file storage.
-
----
+* Instead of just files sitting in a folder, this repo is a **structured learning path**.
+* Developers can **fork** it, experiment, and contribute improvements.
+* This shows how GitHub fosters *collaborative education*, not just storage.
 
 #### Example No.2 – Curated Open-Source Apps
 
-The [`dkhamsing/open-source-ios-apps`](https://github.com/dkhamsing/open-source-ios-apps) repo is essentially a **living catalog** of open-source iOS applications.
+[`dkhamsing/open-source-ios-apps`](https://github.com/dkhamsing/open-source-ios-apps) is a **living catalog** of open-source iOS apps.
 
-* Instead of simply uploading a zip folder of apps, contributors maintain an **index with links, descriptions, and resources**, updated by the community.
-* Anyone can suggest additions through **pull requests**, and maintainers can review/merge them.
-* This collaborative process is impossible with traditional cloud storage, where changes aren’t tracked or peer-reviewed.
-
----
+* Contributors maintain an **index with links and descriptions**, updated continuously.
+* Changes are tracked and reviewed through **pull requests**, unlike cloud storage where edits aren’t version-controlled.
 
 #### Example No.3 – Free Learning Resources
 
-The legendary [`EbookFoundation/free-programming-books`](https://github.com/EbookFoundation/free-programming-books) repo collects **free programming books, tutorials, and courses** across dozens of languages and topics.
+[`EbookFoundation/free-programming-books`](https://github.com/EbookFoundation/free-programming-books) collects **free programming books, tutorials, and courses**.
 
-* On a cloud drive, this would just be a folder of files. On GitHub, it’s an **open, version-controlled, crowd-sourced library** with thousands of contributors worldwide.
-* Every new book or tutorial suggestion is submitted via pull request, checked for quality, and then merged into the main project.
-* This turns the repo into a **community-powered educational hub**, not just static file storage.
+* On a cloud drive, this would just be static files. On GitHub, it’s an **open, crowd-sourced library** with thousands of contributors.
+* Every update goes through a transparent, version-controlled process.
 
 ---
 
 ### 💡 Key Takeaway
 
-GitHub repositories are not only about *storing* files, but about **versioning, collaboration, and open contribution**. Services like Google Drive, OneDrive, or Mega work great for personal file storage and sharing, but GitHub enables something fundamentally different: a **global ecosystem where projects evolve through collective input**.
+GitHub repositories are not just about *storing* files—they’re about **versioning, collaboration, and community-driven contribution**.
+While services like Google Drive, OneDrive, or Mega are great for personal storage, GitHub enables a **global ecosystem where projects grow through collective input**.
 
-`Did you get it now?`
 ---
 
-## **The purpose of this repository.**
+## 🎯 Purpose of This Repository
 
-Like what was stated earlier, this repository are aimed for the students in my department within my school (OLLC). And this was made to help them understand what is C, how it works, and how it was the foundation of some of the most famous languages like [`Python`](https://www.python.org/), [`C++`](https://en.wikipedia.org/wiki/C%2B%2B), [`Java`](https://www.java.com/en/), and many more.
+As mentioned earlier, this repository is aimed at students in my department at **OLLC**. It was made to help them understand:
 
-By learning this, not only it will give you a good foundation on `how computers work`, it will also open alot of opportunities for learning many languages due to them using some of the `C's Syntax`.
+* What **C programming** is.
+* How it works.
+* How it has influenced languages like [Python](https://www.python.org/), [C++](https://en.wikipedia.org/wiki/C%2B%2B), [Java](https://www.java.com/en/), and many others.
+
+By learning C, you will not only build a solid foundation in **how computers work**, but also open up many opportunities to learn modern programming languages that inherit much of C’s syntax.
+
+In short, this repository is about laying the foundation for becoming a versatile and confident programmer.
