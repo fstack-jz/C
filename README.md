@@ -18,7 +18,7 @@ Before we tackle the purpose of this repository, let’s first answer: **What is
 
 Its explanation can be divided into two answers:
 
-#### 🔹 Technical Answer
+#### Technical Answer
 
 A **repository** (or *repo*) is a storage location for a project, complete with its **version history** (version control).
 This allows us to track, revisit, and manage changes to our projects.
@@ -42,7 +42,7 @@ Simply put, a **repository** is like saving your files in the cloud. But unlike 
 
 ---
 
-### 📌 How is GitHub Different from Regular Cloud Storage?
+###  How is GitHub Different from Regular Cloud Storage?
 
 I'll put an example of some repositories here for referrence:
 
@@ -70,7 +70,7 @@ I'll put an example of some repositories here for referrence:
 
 ---
 
-###  Key Takeaway
+###  In Summary:
 
 GitHub repositories are not just about *storing* files—they’re about **versioning, collaboration, and community-driven contribution**.
 While services like Google Drive, OneDrive, or Mega are great for personal storage, GitHub enables a **global ecosystem where projects grow through collective input**.
