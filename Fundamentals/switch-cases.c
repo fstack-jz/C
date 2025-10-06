@@ -26,3 +26,8 @@ int main() {
             printf("Invalid output, try again."); // output
     }
 }
+
+
+// When to use this?
+// use this if have an input that is only a single character.
+// string is not advisable and may not work on certain conditions
